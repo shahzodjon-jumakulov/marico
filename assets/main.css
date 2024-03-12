@@ -1,3 +1,10 @@
 body {
   background: #000;
+  font-family: 'Poppins';
+}
+
+.flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
